@@ -3,14 +3,22 @@ Repositorio
 README.md
 pasos_dhcp_windows.md
 comandos.txt
-capturas/
-# Documentación del Proyecto - DHCP en Windows
+# Documentación del Proyecto - Servicios en CentOS 10
 
 ## Descripción
-Repositorio de respaldo del proyecto donde se documentan los pasos para:
-- Configurar una red con máscara distinta a /24
-- Configurar un pool DHCP en Windows Server / simulador
-- Verificar asignación de IP
+Este repositorio contiene el respaldo de los pasos realizados para la instalación y configuración de los servicios:
+- Odoo
+- WordPress
+- Asterisk
+
+Los procedimientos fueron ejecutados en el sistema operativo CentOS 10 (Stream) como parte del proyecto de laboratorio.
+
+## Contenido del repositorio
+- odoo.md: Pasos de instalación y configuración de Odoo
+- wordpress.md: Pasos de instalación y configuración de WordPress
+- asterisk.md: Pasos de instalación y configuración de Asterisk
+- comandos.txt: Comandos utilizados durante el proceso
+- capturas/: Evidencias del proceso
 
 ## Autor
 Fabian Rodriguez  
