@@ -17,8 +17,6 @@ Los procedimientos fueron ejecutados en el sistema operativo CentOS 10 (Stream) 
 - odoo.md: Pasos de instalación y configuración de Odoo
 - wordpress.md: Pasos de instalación y configuración de WordPress
 - asterisk.md: Pasos de instalación y configuración de Asterisk
-- comandos.txt: Comandos utilizados durante el proceso
-- capturas/: Evidencias del proceso
 
 ## Autor
 Fabian Rodriguez  
