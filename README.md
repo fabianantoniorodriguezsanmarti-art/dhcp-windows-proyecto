@@ -1,4 +1,4 @@
-# dhcp-windows-proyecto
+# pasos seguidos para configurar los servicios y comandos aplicados
 Repositorio 
 README.md
 pasos_dhcp_windows.md
