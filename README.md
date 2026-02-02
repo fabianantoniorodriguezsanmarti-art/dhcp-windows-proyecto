@@ -1,9 +1,6 @@
-# pasos seguidos para configurar los servicios y comandos aplicados
+# Pasos seguidos para configurar los servicios y comandos aplicados
 Repositorio 
-README.md
-pasos_dhcp_windows.md
-comandos.txt
-# Documentación del Proyecto - Servicios en CentOS 10
+# Documentación del Proyecto - Servicios
 
 ## Descripción
 Este repositorio contiene el respaldo de los pasos realizados para la instalación y configuración de los servicios:
